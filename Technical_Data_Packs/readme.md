@@ -72,3 +72,37 @@ Part 2: lbry.tv/@TechnicalDataPacks/TDP_Rifles_Part_2
 Part 3: lbry.tv/@TechnicalDataPacks/TDP_Rifles_Part_3
 
 part 4: lbry.tv/@TechnicalDataPacks/TDP_Rifles_Part_4
+
+	- Complete M4A1 Technical Data Pacakge + CAD Assembly
+	
+	- Deterrence Dispensed AR15 Complete Reference Model V1.1
+	
+	- Ivan's M16 Fire Control Group Reference Model
+
+	- McGraw-Hill Complete 1903 Springfield Build Instructions (TDP + Machining Steps)
+
+	- Complete M16A1/A2 Technical Data Package
+
+	- Complete STG44/MP44 Technical Data Package (original, in German)
+
+	- Complete AK47/AKM/AK Underfolder (Forged Receiver) Technical Data Package
+
+	- Complete 1918 BAR Technical Data Package
+
+	- Complete M14 Technical Data Package
+
+	- Complete M4 Survival Rifle Technical Data Package
+
+	- Near-Complete Enfield No1 Mk3 Technical Data Package
+
+	- Near-Complete M1 Garand Technical Data Package
+
+	- Ruger 10/22 Receiver Blueprint
+
+	- DIY Sheet Metal AR15 Lower Receiver
+
+	- FN FAL (inch pattern) Receiver Drawing
+
+	- Partial T48 (US FAL version) Technical Data Package
+
+	- Partial Mosin-Nagant 1933 Technical Data Package
