@@ -13,7 +13,7 @@ function displayResults(array) {
     return;
   }
 
-  const html = array.map(r => `<li><a target="_blank" href="${handleUrls(BASE_URL+r.location)}">${r.location}</a></li>`);
+  const html = array.map(r => `<li><a target="_blank" href="${handleUrls(BASE_URL+r.location)}">${r.location}</a></li>`).join('');
 
   $('#results').html('<ul>'+html+'</ul>');
 }
