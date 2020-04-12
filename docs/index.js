@@ -16,6 +16,7 @@ function render(html) {
     side: 'right',
     interactive: true,
     contentAsHTML: true,
+    updateAnimation: null,
     content: 'Loading readme...',
     functionBefore: function(instance, helper) {
       const $origin = $(helper.origin);
@@ -25,7 +26,6 @@ function render(html) {
 
         $.get(`${RAWFILE_BASE_URL}${linkData.readmePath}`, function(readmeData) {
           const readme = readmeData.replace(/(\n)/gi,'<br>');
-console.log(readme);
           instance.content(readme);
           $origin.data('loaded', true);
         });
