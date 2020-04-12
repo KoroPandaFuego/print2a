@@ -3,5 +3,9 @@ html {
 }
 
 #results {
-  border: 1px solid red;
+  margin-top: 20px;
+}
+
+#results a {
+  color: gray;
 }
