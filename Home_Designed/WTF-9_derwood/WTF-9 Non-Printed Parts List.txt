@@ -1,0 +1,35 @@
+Non-printed parts list
+
+Screws
+
+All sheet metal screws need to be puchased longer than needed. They will need to be cut to length and have a blunt end with no tapered point. This reduces chance of splitting plastic parts.
+
+
+3- #8 sheet metal screw 88mm   for rear upper endcap. 
+1- #8 sheet metal screw        for mag release pivot. 
+2- #6 sheet metal screw 73mm   for ejector pivot
+1  #6 sheet metal screw 25mm   for feed ramp 
+1-  6/32 machine screw  40mm   for rear take-down pin (lower)
+
+4- 8/32 threaded rods 140mm    for barrel retainer   (drive rods into upper exactly 20mm)
+
+Springs
+
+1- Ak-47 standard recoil spring  (Cut in half)
+1- 0.845 OD x 0.685 ID 0.08WG compression spring   41.3mm (Buffer Spring)
+1- 15/32 OD x .041WG compression spring            32mm   (folding brace mechanism)
+1- 7/32  OD x .015WG compression spring            length to be dertermined  (firing pin spring)
+
+Nuts 
+
+4- 8/32 nuts  for barrel retainer
+1- 8/32 acorn or lock nut for driving threaded rods
+
+Washers
+
+4- #6 washers for front endcap
+
+Misc.
+
+1/4" brass or steel rod 74mm     for folding mechanism. (two washers and cotter pins)
+8/32 tap  for threaded rods into upper. (only tap the first 8mm of the hole. prepare holes with 1/8" drill bit exactly 23mm deep. do not ream)
