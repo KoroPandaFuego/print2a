@@ -6,7 +6,7 @@ All sheet metal screws need to be puchased longer than needed. They will need to
 
 	* [Brackets] indicate final trim length, if not specified, the faster/part is not trimmed.
 
-3 - #8 sheet metal screw --- [88mm] --- (for rear upper endcap)
+3 - #8 sheet metal screw --- [24mm] --- (for rear upper endcap)
 1 - #8 sheet metal screw          ---           (for mag release pivot) 
 2 - #6 sheet metal screw --- [73mm] --- (for ejector pivot)
 1 - #6 sheet metal screw --- [25mm] --- (for feed ramp) 
@@ -31,7 +31,7 @@ Springs
 
 1 - 0.845" OD x 0.685" ID 0.08" WG compression spring --- [41.3mm] --- (buffer spring)
 1 - 15/32" OD x .041" WG compression spring --- [32mm] --- (folding brace mechanism)
-1 - 7/32"  OD x .015" WG compression spring --- [length to be determined] --- (firing pin spring)
+1 - 7/32"  OD x .015" WG compression spring --- [17mm] --- (firing pin spring)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nuts 
@@ -59,6 +59,10 @@ Misc.
 	* advised to use drill rod and oil-harden it after machining on a lathe for best longevity
 		* drill rod can be purchased from Fastenal/McMaster-Carr/Ebay
 
+*** Optional***
+8D 2-1/4" (5.72cm) smooth shank duplex nails --- (non-machined firing pin replacement mod)
+	- More info in Machining-Welding Jigs folder, duplex_nail_mod.txt
+
 1/8" steel pin --- [25mm] --- (for firing pin retainer)
 
 1/4" brass or steel rod --- [74mm] --- (for folding mechanism)
@@ -71,4 +75,4 @@ Misc.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Version Info:
-Compiled 05/09/2020
+Compiled 05/19/2020
