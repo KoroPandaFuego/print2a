@@ -1,6 +1,2 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-*.mp4 filter=lfs diff=lfs merge=lfs -text
-Technical_Data_Packs/M4A1/Assemblies/*.tif filter=lfs diff=lfs merge=lfs -text
-Technical_Data_Packs/M4A1/Components/*.tif filter=lfs diff=lfs merge=lfs -text
-*.skp filter=lfs diff=lfs merge=lfs -text
