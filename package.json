@@ -10,7 +10,10 @@
     "list": "node docs/list.js",
     "pc-msg": "echo 'Updating list...' && exit 0"
   },
-  "pre-commit": [ "pc-msg", "list" ],
+  "pre-commit": [
+    "pc-msg",
+    "list"
+  ],
   "repository": {
     "type": "git",
     "url": "git@github.com:MSFTserver/print2a.git"
