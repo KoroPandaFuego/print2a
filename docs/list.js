@@ -9,7 +9,7 @@ const imagesRegex = new RegExp(/.jpg|.png$/, 'gi');
 
 const filesAndFoldersToExclude = [
   '.git',
-  'docs',
+  //'docs',
   '.gitignore',
   '.gitattributes',
   'node_modules',
@@ -49,10 +49,10 @@ const infoList = thingsList.map(readmeFilepath => {
   const tags = folder.split('/').map(str => str.split('_')).flat().filter(str => str !== '');
   const readmeStat = fs.statSync(readmeFilepath);
   if(readmeFilepath == 'readme.md'){return};
-	//console.log('logged:'+readmeFilepath);
-	//console.log('logged:'+folder);
+	console.log('logged:'+readmeFilepath);
+	console.log('logged:'+folder);
 	//console.log('logged:'+tags);
-	//console.log('logged:'+readmeStat);
+	console.log('logged:'+readmeStat);
 
   return {
     location: folder.replace(/\/$/, ''), //remove the last slash

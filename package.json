@@ -26,5 +26,6 @@
   "homepage": "https://github.com/MSFTserver/print2a#readme",
   "devDependencies": {
     "pre-commit": "^1.2.2"
-  }
+  },
+  "dependencies": {}
 }
