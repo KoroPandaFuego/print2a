@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Home_Designed/WTF-9_v2/MOD9_V1/Images/folding_stock_assembly_(video).mp4 filter=lfs diff=lfs merge=lfs -text
+Home_Designed/WTF-9_v2/MOD9_V2/Images/folding_stock_assembly_(video).mp4 filter=lfs diff=lfs merge=lfs -text
+Home_Designed/WTF-9_v2/MOD9_V2/STL/Mod9_Hyd_Buffer_Endcap_Final.STL filter=lfs diff=lfs merge=lfs -text
+Home_Designed/WTF-9_v2/MOD9_V2/STL/Mod9_Lower_Receiver_Final.STL filter=lfs diff=lfs merge=lfs -text
