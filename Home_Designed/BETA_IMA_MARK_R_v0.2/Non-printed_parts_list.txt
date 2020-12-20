@@ -1,0 +1,38 @@
+MARK R Beta Build v0.2
+
+Great Thanks to pixel_smoke all his original work and for allowing me to run wild with this and continue work on this project.
+
+
+Non-printed parts list:
+
+Gun OEM Parts: (obtainable on ebay)
+Sig P250 22lr barrel (if you can find one)
+
+Alternative Barrels:
+22lr barrel liner 1:16 twist (barrel lnier holder is currently specced for the Redman's barrel liner from brownells,
+			      if you have a differt one pm me the od of the liner and I'll make you a new liner holder to fit it)
+
+Mark bolt (to my knowledge mark version doesnt matter II-IV, find cheapest option)
+Mark IV 22/45 FCG (ensure it has trigger, trigger spring and plunger, trigger bar, sear, sear spring, hammer assembly)
+Mark 22/45 mag catch, spring and plunger (can buy this assembly from ruger directly for cheaper than ebay)
+Mark III main spring (can buy this from ruger directly for cheaper than ebay)
+Mark III ejector
+Mark III grip screws (might be able to replace with hardware store fastener of correct size)
+
+Fasteners and other non-gun parts:
+2x M4x20mm cap head screw
+2x M4 nut
+1x M2.5x 6mm socket head screw
+1x M2.5x 18mm socket head screw
+1x M2.5 nut
+
+1/8 rod x ~17mm 
+
+1x .177 metal bb
+
+1 paper clip (~diameter 0.75mm)
+
+1 piece of gum (can be substituted for shot of your favorite alcohol of choice) 
+[chew (take shot) while assembling mainspring housing to calm your nerves when you think this is never going to fit in there]
+
+2.5-3mm nail equivilant nail for pins
